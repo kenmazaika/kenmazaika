@@ -2,7 +2,7 @@
 
 My name is Ken.  Great to meet you!
 
-I'm [CTO](https://www.linkedin.com/in/kenmazaika/) at [Hello Metropolis](http://hellometropolis.com/).  We're a DevOps platform that helps engineering teams build software faster.
+I'm [CTO](https://www.linkedin.com/in/kenmazaika/) at [Hello Metropolis](http://hellometropolis.com/).  We're a DevOps platform that helps engineering teams ship quality work faster.
 
 Before that, I was Director of Engineering at _Trilogy Education_, which acquired the company I co-founded _Firehose Project_, where I was the CTO.
 
